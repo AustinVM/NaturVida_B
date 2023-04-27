@@ -1,0 +1,24 @@
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_entidad\bin\Debug\Capa_entidad.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_entidad\bin\Debug\Capa_entidad.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_entidad\obj\Debug\Capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_entidad\obj\Debug\Capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_entidad\obj\Debug\Capa_entidad.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_entidad\obj\Debug\Capa_entidad.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_entidad\bin\Debug\Capa_entidad.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_entidad\bin\Debug\Capa_entidad.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_entidad\bin\Debug\Capa_entidad.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_entidad\bin\Debug\Capa_entidad.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.pdb
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_entidad\bin\Debug\Capa_entidad.dll
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_entidad\bin\Debug\Capa_entidad.pdb
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.csproj.AssemblyReference.cache
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.csproj.CoreCompileInputs.cache
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.dll
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_entidad\obj\Debug\Capa_entidad.pdb

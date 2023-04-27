@@ -1,0 +1,169 @@
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_presentacion.exe.config
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_entidad.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_negocio.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_datos.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_entidad.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_negocio.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_datos.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Form1.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Form_productos.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.exe
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Frmlogin.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Form2.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_presentacion.exe.config
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_entidad.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_negocio.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_datos.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_entidad.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_negocio.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\bin\Debug\Capa_datos.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Form1.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Form2.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Form_productos.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Frmlogin.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.exe
+C:\Users\Maria\Desktop\Crud_tienda_naturista\Crud_tienda_naturista\Capa_presentacion\obj\Debug\Capa_presentacion.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Form1.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_productos.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_login.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.exe
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe.config
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe.config
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.dll
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Form1.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_productos.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_login.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.exe
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.pdb
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.open.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.ResolveComReference.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.ResolveComReference.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.open.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_clientes.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_inventario.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_vendedores.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_factura.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_clientes.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_inventario.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_factura.resources
+C:\Users\Sena CSET\Desktop\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_vendedores.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.ResolveComReference.cache
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_clientes.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_inventario.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Form1.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_factura.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_productos.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_login.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_vendedores.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.open.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.GenerateResource.cache
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.exe
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.pdb
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe.config
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.dll
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.dll
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.dll
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.pdb
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.pdb
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.pdb
+C:\Users\villa\3D Objects\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe.config
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.dll
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.pdb
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.ResolveComReference.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_clientes.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_inventario.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Form1.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_factura.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_productos.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_login.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_vendedores.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.open.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.GenerateResource.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.exe
+C:\Users\Maria\Desktop\Crud_tienda_naturista1_1\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.pdb
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.ResolveComReference.cache
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_clientes.resources
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_inventario.resources
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Form1.resources
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_factura.resources
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_productos.resources
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_vendedores.resources
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.open.resources
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.GenerateResource.cache
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.exe
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.pdb
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe.config
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.dll
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.dll
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.dll
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_entidad.pdb
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_negocio.pdb
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.pdb
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_login.resources
