@@ -13,7 +13,7 @@ namespace Capa_presentacion.Clase_Validaciones
     {
         public static void SoloNum(KeyPressEventArgs e)
         {
-            if (!char.IsDigit(e.KeyChar))
+            if (!char.IsDigit(e.KeyChar) || !char.IsControl(e.KeyChar))
             {
                 e.Handled = true;
             }
