@@ -46,7 +46,7 @@ namespace Capa_presentacion
             oCEcliente.Documento = Convert.ToInt32(txt_documento.Text);
             DataTable dt = oCNcliente.MostrarclienteEspecifico(oCEcliente);
 
-            if (txt_documento.Text == string.Empty || 
+            if (txt_documento.Text == string.Empty ||
                 txt_nombre.Text == string.Empty ||
                 txt_direccion.Text == string.Empty ||
                 txt_telf.Text == string.Empty ||

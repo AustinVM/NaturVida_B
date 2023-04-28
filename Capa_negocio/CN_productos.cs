@@ -1,7 +1,6 @@
 ﻿using Capa_datos;
 using Capa_entidad;
 using System.Data;
-using System;
 
 namespace Capa_negocio
 {

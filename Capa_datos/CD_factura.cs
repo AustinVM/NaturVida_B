@@ -39,7 +39,7 @@ namespace Capa_datos
             catch (System.Exception)
             {
                 System.Console.WriteLine("lol");
-            }            
+            }
         }
     }
 }

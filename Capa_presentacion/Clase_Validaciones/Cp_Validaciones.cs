@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Text.RegularExpressions;
 using System.Windows.Forms;
-using System.Security.Cryptography;
-using System.Text.RegularExpressions;
 
 namespace Capa_presentacion.Clase_Validaciones
 {
@@ -13,13 +7,17 @@ namespace Capa_presentacion.Clase_Validaciones
     {
         public static void SoloNum(KeyPressEventArgs e)
         {
-            if (!char.IsDigit(e.KeyChar) || !char.IsControl(e.KeyChar))
+            if (char.IsDigit(e.KeyChar))
             {
-                e.Handled = true;
+                e.Handled = false;
+            }
+            else if (char.IsControl(e.KeyChar))
+            {
+                e.Handled = false;
             }
             else
             {
-                e.Handled = false;
+                e.Handled = true;
             }
         }
 

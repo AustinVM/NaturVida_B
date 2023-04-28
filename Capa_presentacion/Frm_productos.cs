@@ -101,7 +101,7 @@ namespace Capa_presentacion
         {
             DialogResult respuesta;
             CE_productos objce = new CE_productos(); //instanciamos la capa de negocio para poder obtener el parametro código 
-            
+
             respuesta = MessageBox.Show("¿Está seguro?", "Confirme la operación de eliminación", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (respuesta == DialogResult.Yes)
             {
@@ -112,7 +112,7 @@ namespace Capa_presentacion
             else
             {
                 MessageBox.Show("Rechazado");
-            }                
+            }
         }
 
         private void btnActualizar_Click(object sender, EventArgs e)//boton guardar en modificar
@@ -215,7 +215,7 @@ namespace Capa_presentacion
                     existe = true;
                 }
             }
-            
+
             return existe;
         }
 

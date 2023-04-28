@@ -1,9 +1,9 @@
 ﻿using Capa_entidad;
 using Capa_negocio;
+using Capa_presentacion.Clase_Validaciones;
 using System;
 using System.Data;
 using System.Windows.Forms;
-using Capa_presentacion.Clase_Validaciones;
 
 namespace Capa_presentacion
 {
