@@ -8,16 +8,7 @@ Usuario VARCHAR(15),
 Contraseña VARCHAR(250),
 Nombre VARCHAR(50),
 )
---Parte Facturacion
-CREATE TABLE Factura(
-IdFactu INT IDENTITY(1,1) PRIMARY KEY,
-Fecha DATE,
-Documento_Cliente INT,
-Codigo_Vendedor INT
 
-FOREIGN KEY (Documento_Cliente) REFERENCES Cliente (Documento),
-FOREIGN KEY (Codigo_Vendedor) REFERENCES Vendedores (Codigo)
-)
 
 --Parte Cliente
 CREATE TABLE Cliente(
@@ -28,12 +19,22 @@ Telefono varchar(10),
 Correo Varchar(250) UNIQUE
 )
 
-select * from cliente
 CREATE TABLE Productos(
 Codigo INT PRIMARY KEY,
 Descripción VARCHAR(50),
 Valor_Unidad INT,
 Cantidad INT
+)
+
+--Parte Facturacion
+CREATE TABLE Factura(
+IdFactu INT IDENTITY(1,1) PRIMARY KEY,
+Fecha DATE,
+Documento_Cliente INT,
+Codigo_Vendedor INT
+
+FOREIGN KEY (Documento_Cliente) REFERENCES Cliente (Documento),
+FOREIGN KEY (Codigo_Vendedor) REFERENCES Vendedores (Codigo)
 )
 
 --Factura detalle
@@ -48,7 +49,6 @@ FOREIGN KEY (Numero_Factura) REFERENCES Factura(IdFactu),
 FOREIGN KEY (Codigo_Productos) REFERENCES Productos (Codigo)
 )
 
-select * from Productos
 -- Datos
 
 INSERT INTO Vendedores VALUES -- Contraseña admin es admin
