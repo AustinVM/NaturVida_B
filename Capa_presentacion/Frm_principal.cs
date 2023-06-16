@@ -45,7 +45,12 @@ namespace Capa_presentacion
         private void vendedoresToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Mostrarpanel(new Frm_vendedores());
-            ;
+            
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            Mostrarpanel(new Frm_productos());
         }
     }
 }

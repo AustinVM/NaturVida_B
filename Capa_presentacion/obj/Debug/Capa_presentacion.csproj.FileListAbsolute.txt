@@ -167,3 +167,29 @@ C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa
 C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\bin\Debug\Capa_datos.pdb
 C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
 C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_login.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_presentacion.exe.config
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_presentacion.exe
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_presentacion.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_entidad.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_negocio.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_datos.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_entidad.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_negocio.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\bin\Debug\Capa_datos.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.ResolveComReference.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_clientes.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_inventario.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.Form1.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_factura.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_productos.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_login.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.Frm_vendedores.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.open.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.Properties.Resources.resources
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.GenerateResource.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.csproj.CopyComplete
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.exe
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_presentacion\obj\Debug\Capa_presentacion.pdb

@@ -75,3 +75,14 @@ C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_negocio\obj\Debug\Capa_nego
 C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_negocio\obj\Debug\Capa_negocio.csproj.CopyComplete
 C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_negocio\obj\Debug\Capa_negocio.dll
 C:\Users\villa\Downloads\Crud_tienda_naturista1\Capa_negocio\obj\Debug\Capa_negocio.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\bin\Debug\Capa_negocio.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\bin\Debug\Capa_negocio.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\bin\Debug\Capa_datos.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\bin\Debug\Capa_entidad.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\bin\Debug\Capa_datos.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\bin\Debug\Capa_entidad.pdb
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\obj\Debug\Capa_negocio.csproj.AssemblyReference.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\obj\Debug\Capa_negocio.csproj.CoreCompileInputs.cache
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\obj\Debug\Capa_negocio.csproj.CopyComplete
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\obj\Debug\Capa_negocio.dll
+C:\Users\villa\OneDrive\Documentos\Repositorios GitHub\NaturVida_B\Capa_negocio\obj\Debug\Capa_negocio.pdb
